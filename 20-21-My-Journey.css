@@ -1,0 +1,35 @@
+html {
+    background-color: darkolivegreen;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 940px;
+    margin: 8px auto;
+    background-color: #fff;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 8px;
+    padding-bottom: 15px;
+    padding-top: 18px;
+}
+
+header:hover {
+    transition: 2s;
+    background-color: lightblue;
+}
+
+.container {
+    background-color: khaki; 
+    padding: 20px; 
+}
+
+footer {
+    text-align: center;
+    padding-top: 30%;
+    padding-bottom: .5px;
+    color: grey;
+}
+
